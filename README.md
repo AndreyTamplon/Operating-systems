@@ -1,0 +1,1 @@
+# Repository for solving problems from the course "Operating systems"
